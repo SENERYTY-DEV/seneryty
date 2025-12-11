@@ -1,0 +1,67 @@
+{
+  "name": "senerdark",
+  "displayName": "SenerDark Theme",
+  "description": "A sleek dark VS Code theme with clear syntax highlighting.",
+  "version": "0.0.1",
+  "publisher": "seneryty",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SenerDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SenerDark-color-theme.json"
+      },
+      {
+        "label": "SenerDeepGray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Senerdeepgray-color-theme.json"
+      },
+      {
+        "label": "SenerBlueGray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SenerBlueGray-color-theme.json"
+      }
+    ]
+  },
+  "screenshots": [
+    {
+      "path": "screenshots/senerdark.png",
+      "description": "SenerDark Theme preview"
+    },
+    {
+      "path": "screenshots/deepgray.png",
+      "description": "SenerDeepGray Theme preview"
+    },
+    {
+      "path": "screenshots/bluegray.png",
+      "description": "SenerBlueGray Theme preview"
+    }
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "vscode",
+    "senerdark",
+    "syntax"
+  ],
+  "scripts": {
+    "copy-screenshots": "node ./scripts/copy-screenshots.js",
+    "prepackage": "node ./scripts/copy-screenshots.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SENERYTY/senerdark"
+  },
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#262626",
+    "theme": "dark"
+  }
+}
