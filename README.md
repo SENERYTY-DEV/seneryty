@@ -21,19 +21,19 @@
 ## Preview
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/SENERYTY/senerdark/main/screenshots/senerdark.png" alt="SenerDark preview" style="max-width:100%;height:auto;" />
+	<img src="https://raw.githubusercontent.com/SENERYTY-DEV/seneryty/main/screenshots/senerdark.png" alt="SenerDark preview" style="max-width:100%;height:auto;" />
 </p>
 
 ## Screenshots
 
 ### SenerDark
-![SenerDark](https://raw.githubusercontent.com/SENERYTY/senerdark/main/screenshots/senerdark.png)
+![SenerDark](https://raw.githubusercontent.com/SENERYTY-DEV/seneryty/main/screenshots/senerdark.png)
 
 ### SenerDeepGray
-![SenerDeepGray](https://raw.githubusercontent.com/SENERYTY/senerdark/main/screenshots/deepgray.png)
+![SenerDeepGray](https://raw.githubusercontent.com/SENERYTY-DEV/seneryty/main/screenshots/deepgray.png)
 
 ### SenerBlueGray
-![SenerBlueGray](https://raw.githubusercontent.com/SENERYTY/senerdark/main/screenshots/bluegray.png)
+![SenerBlueGray](https://raw.githubusercontent.com/SENERYTY-DEV/seneryty/main/screenshots/bluegray.png)
 
 ## Installation
 
