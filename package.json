@@ -2,7 +2,7 @@
   "name": "senerdark",
   "displayName": "SenerDark Theme",
   "description": "A sleek dark VS Code theme with clear syntax highlighting.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "seneryty",
   "icon": "icon.png",
   "engines": {
